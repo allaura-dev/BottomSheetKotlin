@@ -29,7 +29,7 @@
         android:layout_marginEnd="0dp"
         android:background="#E8E5E5"
         android:gravity="center|top"
-        android:text="Explore Persistent Bottom Sheet"
+        android:text="Bottom Sheet: An Example"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -39,7 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#3FBCED"
-        android:text="Follow us on Twitter @mobiraft"
+        android:text="For more check me out at"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -48,7 +48,7 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Mobiraft.com"
+        android:text="ahdevstudios.ca"
         android:textAlignment="center"
         android:textColor="#344CE3"
         android:textSize="50sp" />
