@@ -14,7 +14,9 @@
             android:id="@+id/persistentBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="#FF550000"
             android:layout_gravity="center_horizontal"
-            android:text="Persistent Bottom Sheet" />    </LinearLayout>
+            android:text="Persistent Bottom Sheet" />
+    </LinearLayout>
     <include layout="@layout/persistent_bottom_sheet" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
